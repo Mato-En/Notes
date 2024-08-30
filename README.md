@@ -8,7 +8,7 @@
   - Better Code Blocks: some notes contain programming code
   - Joplin Enhancement: very important as it allows to scale the images 
   - Text Colorize: used for highlighting important parts of the notes
-- With these plugins installed, you can import the .jex file 
+- With these plugins installed, you can import the .jex file (unfortunately, the import will be nested within a notebook with the name of the file. Simply give the parent another appropriate name or move it and delete the parent)
 # Subjects
 ## Mathematics
 ### Calculus
