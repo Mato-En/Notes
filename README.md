@@ -1,8 +1,7 @@
-# Notes
-## Preface
+# Preface
 - All notes are free to edit, share, and whatever you like to do with it
 - I am no expert in neither of the fields so mistakes happen and if you find one, feel free to let me know
-## Installation Process 
+# Installation Process 
 - I use [Joplin](https://joplinapp.org/) because it offers great Latex integration and I especially like that it is free and opensource
 - After downloading the program, I recommend downloading the following plugins
   - Better Code Blocks: some notes contain programming code
