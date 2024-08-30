@@ -12,7 +12,7 @@
 ## Mathematics
 ### Calculus
 - All notes were created from reading the Calculus volumes from [Openstax](https://openstax.org/subjects/math) and from internet research regarding unanswered questions. Huge thank you for making them available for free!
-- Every mathematician would roll their eyes at what sometimes call a proof but these notes are written from the perspective of a (becoming) physicst not a mathematician
+- Every mathematician would roll their eyes at what I sometimes call a proof but these notes are written from the perspective of a (becoming) physicst not a mathematician
 - The section _Preliminaries_ is actually from the _Mathematica Analysis Second Edition Apostol_ but this level of mathematical rigor does not continue
 ### Precalculus
 - All notes were created from reading the Algebra and Trigonometry book from [Openstax](https://openstax.org/subjects/math) and from internet research regarding unanswered questions. Again, very gratetful for their work.
