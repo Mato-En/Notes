@@ -26,7 +26,7 @@
 - All notes were created from reading the Calculus volumes from [Openstax](https://openstax.org/subjects/math) and from internet research regarding unanswered questions. Huge thank you for making them available for free!
 - Every mathematician would roll their eyes at what I sometimes call a proof but these notes are written from the perspective of a (becoming) physicst not a mathematician
 - The section _Preliminaries_ is actually from the _Mathematical Analysis Second Edition Apostol_ but this level of mathematical rigor does not continue
-- The further the topics advance, the fewer proofs are provided (derivations are mostly included) since they are covered in real analysis books
+- As the topics advance, proofs are not provided as frequently as they were at the beginning (derivations are mostly included) since they are covered in real analysis books
 #### Topics
 - Topics include (among others)
   - Preliminaries: definition of real and complex numbers
