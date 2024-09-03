@@ -1,6 +1,6 @@
 # Preface
 - All notes are free to edit, share, or whatever you like to do with it
-- I am no expert in neither of the fields so mistakes happen and if you find one, feel free to let me know
+- I wrote these notes for myself but I provide them here as it is no additional effort. Also, I am no expert in any of the fields so mistakes happen and if you find one, feel free to let me know
 - Note that these notes are meant to be viewed in fullscreen (i.e., third editor mode) and on a computer
 # Installation Process 
 - I use [Joplin](https://joplinapp.org/) because it offers great Latex integration and I especially like that it is free and opensource
