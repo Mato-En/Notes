@@ -40,7 +40,7 @@
   - Vector calculus: planes, vectors, line integrals, surface integrals, and Stokes' theorem (in progress) 
 ## Physics
 - All notes were created from reading the University Physics volumes from [Openstax](https://openstax.org/subjects/science) and from internet research regarding unanswered questions. Again, Openstax has created three beautiful textbooks. Please make sure to pay them a visit
-- In my case, I closely integrated the mathematical concepts from my calculus notes into the physics notes so for a deeper understanding of these concepts, make sure there is a solid understanding of calculus
+- In my case, I closely integrated the mathematical concepts from my calculus notes into the physics notes so for a deeper understanding of these concepts, make sure you have a solid understanding of calculus
 ### Topics
 - Topics include (among others)
   - Kinematics: introducing displacement, velocity, and acceleration and their related kinematics equations (in multiple dimensions as well)
