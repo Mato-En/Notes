@@ -39,4 +39,12 @@
   - Multivariate calculus: partial derivatives, tangent planes, double and triple integrals
   - Vector calculus: planes, vectors, line integrals, surface integrals, and Stokes' theorem (in progress) 
 ## Physics
-- In progress
+- All notes were created from reading the University Physics volumes from [Openstax](https://openstax.org/subjects/science) and from internet research regarding unanswered questions. Again, Openstax has created three beautiful textbooks. Please make sure to pay them a visit
+- In my case, I closely integrated the mathematical concepts from my calculus notes into the physics notes so for a deeper understanding of these concepts, make sure there is a solid understanding of calculus
+### Topics
+- Topics include (among others)
+  - Kinematics: introducing displacement, velocity, and acceleration and their related kinematics equations (in multiple dimensions as well)
+  - Dynamics: Newton's laws of motion and introducing common forces (tension, friction, etc.)
+  - Work and energy: defining work, kinetic and potential energy, and conservation of energy
+  - Linear momentum: conservation of linear momentum, and collisions (in multiple dimensions as well)
+  - Fixed-axis rotation: introducing rotational variables, torque, rolling motion, and angular momentum
