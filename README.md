@@ -34,10 +34,10 @@
   - Limits: limit laws, continuity and epsilon-delta definition
   - Derivatives: differentiation rules, derivatives of trigonometric and exponential functions, and finding extrema of a function
   - Integration: integration rules, fundamental theorem of calculus, integration by parts, trigonometric integrals, and improper integrals
-  - Differential equations: finding solutions to first- and second order (in progress) differential equations
+  - Differential equations: finding solutions to first- and second order differential equations
   - Series: infinite series, alternating series, root and ratio test, and power series (specifically, Taylor and Maclaurin series)
   - Multivariate calculus: partial derivatives, tangent planes, double and triple integrals
-  - Vector calculus: planes, vectors, line integrals, surface integrals, and Stokes' theorem (in progress) 
+  - Vector calculus: planes, vectors, line integrals, surface integrals, and Stokes' theorem 
 ## Physics
 - All notes were created from reading the University Physics volumes from [Openstax](https://openstax.org/subjects/science) and from internet research regarding unanswered questions. Again, Openstax has created three beautiful textbooks. Please make sure to pay them a visit
 - In my case, I closely integrated the mathematical concepts from my calculus notes into the physics notes so for a deeper understanding of these concepts, make sure you have a solid understanding of calculus
@@ -48,3 +48,8 @@
   - Work and energy: defining work, kinetic and potential energy, and conservation of energy
   - Linear momentum: conservation of linear momentum, and collisions (in multiple dimensions as well)
   - Fixed-axis rotation: introducing rotational variables, torque, rolling motion, and angular momentum
+  - Gravitation: Newton's law of gravitation, orbits, Kepler's laws
+  - Fluid mechanics: pressure, fluid dynamics, Bernoulli's equation
+  - Oscillations and waves: simple harmonic motion, pendulums, mathematics of waves, interference, sound waves, Doppler effect
+  - Thermodynamics: phase changes, heat transfer, kinetic theory of gases, laws of thermodynamics, thermodynamic processes, heat engines, entropy
+  - Electricity: electric fields (more in progress)
